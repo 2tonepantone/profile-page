@@ -32,6 +32,7 @@ h3 {
 a {
   color: #212121;
   text-decoration: none;
+  margin: 0 16px;
 }
 
 /* a:hover {
@@ -69,7 +70,6 @@ a {
 
 .list-inline i {
   font-size: 32px;
-  padding: 0 16px;
 }
 
 .list-inline {
